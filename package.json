@@ -1,12 +1,12 @@
 {
-  "name": "",
-  "displayName": "",
+  "name": "The Nyla ChanelTheme",
+  "displayName": "Ms Nyla Chanel",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "A beautiful theme created uniquely on the fly in honor of my daughter who shares this email client's name.",
   "license": "GPL-3.0",
   "engines": {
-    "nylas": "*"
+    "nylas": "*nylachanel"
   },
   "private": true
 }
